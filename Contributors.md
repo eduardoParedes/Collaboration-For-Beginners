@@ -159,3 +159,8 @@
 - Place: Internet, Dubai
 - Bio: I wonder who I am aswell.
 - GitHub: [Jay](https://github.com/animecatgirl) 
+
+#### Name: [Eduardo Paredes](https://github.com/eduardoParedes)
+- Place: Miami, United States
+- Bio: Aspiring software engineer
+- GitHub: [Eduardo Paredes](GitHub Link)
